@@ -36,7 +36,7 @@ This Power BI dashboard provides a visual analysis of sales data across various 
 
 <h2>7.📊  Power BI Dashbord</h2>
 
-<img src="https://i.imgur.com/9IW3N13.png" alt=" Anonymized Sales Performance Dashboard" width="600"/>
+<img src="https://i.imgur.com/3EimyLS.png" alt=" Anonymized Sales Performance Dashboard" width="600"/>
 
 <h2>8. 👤 Author / Contact </h2>
 
