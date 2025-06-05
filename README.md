@@ -23,7 +23,9 @@ This Power BI dashboard provides a visual analysis of sales data across various 
 
 <h2>3.🧪 Tools and Requirements </h2>
 
-- Power bi Desktop 
+- Power bi Desktop
+- DAX
+- Power Query 
 
 <h2>4.📌 Use Cases </h2>
 
